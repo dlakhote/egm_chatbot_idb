@@ -1,592 +1,592 @@
 intervention_id,intervention_title,is_empty,outcome_id,outcome_title,total_records
-2151,"Roads, regional transportation and logistics",1,2187,Government expenditure on transport,0
-2151,"Roads, regional transportation and logistics",1,2177,Public transit access and use,0
-2151,"Roads, regional transportation and logistics",1,2193,Noise pollution,0
-2151,"Roads, regional transportation and logistics",1,2153,Quality,0
-2151,"Roads, regional transportation and logistics",1,2179,Rail services access and use,0
-2151,"Roads, regional transportation and logistics",1,2198,Access to other goods and services,0
-2151,"Roads, regional transportation and logistics",1,2204,Agricultural outcomes,0
-2151,"Roads, regional transportation and logistics",1,2152,Access and use,0
-2151,"Roads, regional transportation and logistics",1,2185,Transit affordability,0
-2151,"Roads, regional transportation and logistics",1,2361,Household welfare and poverty,0
-2151,"Roads, regional transportation and logistics",1,2195,Goods and services prices and inflation,0
-2151,"Roads, regional transportation and logistics",1,2176,Socioeconomic results,0
-2151,"Roads, regional transportation and logistics",1,2183,Transport safety,0
-2151,"Roads, regional transportation and logistics",1,2180,Other transport infrastructure access and use,0
-2151,"Roads, regional transportation and logistics",1,2174,Affordability,0
-2151,"Roads, regional transportation and logistics",1,2203,Trade and migration,0
-2151,"Roads, regional transportation and logistics",1,2191,Equity in public transport access and safety,0
-2151,"Roads, regional transportation and logistics",1,2175,Service management,0
-2151,"Roads, regional transportation and logistics",1,2192,Air pollution and greenhouse gases,0
-2151,"Roads, regional transportation and logistics",1,2178,Private vehicle use,0
-2151,"Roads, regional transportation and logistics",1,2201,Employment access and outcomes,0
-2151,"Roads, regional transportation and logistics",1,2200,Crime and citizen security,0
-2151,"Roads, regional transportation and logistics",1,2194,"Land, housing, and rent prices and affordability",0
-2151,"Roads, regional transportation and logistics",1,2181,"Travel time, commuting and speed",0
-2151,"Roads, regional transportation and logistics",1,2196,Health access and outcomes,0
-2151,"Roads, regional transportation and logistics",1,2189,Operational environmental sustainability,0
-2151,"Roads, regional transportation and logistics",1,2190,Financial performance,0
-2151,"Roads, regional transportation and logistics",1,2188,Operational efficiency,0
-2151,"Roads, regional transportation and logistics",1,2186,Vehicle ownership costs,0
-2151,"Roads, regional transportation and logistics",1,2202,Economic activity,0
-2151,"Roads, regional transportation and logistics",1,2184,Resilience and continuity,0
-2151,"Roads, regional transportation and logistics",1,2199,Inequality and segregation,0
-2151,"Roads, regional transportation and logistics",1,2197,Education access and outcomes,0
-2151,"Roads, regional transportation and logistics",1,2182,Time used in other activities,0
-2162,Rural roads,1,2187,Government expenditure on transport,0
-2162,Rural roads,1,2193,Noise pollution,0
-2162,Rural roads,1,2153,Quality,0
-2162,Rural roads,1,2179,Rail services access and use,0
-2162,Rural roads,1,2152,Access and use,0
-2162,Rural roads,1,2176,Socioeconomic results,0
-2162,Rural roads,1,2174,Affordability,0
-2162,Rural roads,1,2175,Service management,0
-2162,Rural roads,1,2189,Operational environmental sustainability,0
-2162,Rural roads,1,2190,Financial performance,0
-2162,Rural roads,1,2188,Operational efficiency,0
-2162,Rural roads,1,2186,Vehicle ownership costs,0
-2162,Rural roads,1,2184,Resilience and continuity,0
-2166,Bridges,1,2187,Government expenditure on transport,0
-2166,Bridges,1,2177,Public transit access and use,0
-2166,Bridges,1,2193,Noise pollution,0
-2166,Bridges,1,2153,Quality,0
-2166,Bridges,1,2179,Rail services access and use,0
-2166,Bridges,1,2152,Access and use,0
-2166,Bridges,1,2185,Transit affordability,0
-2166,Bridges,1,2176,Socioeconomic results,0
-2166,Bridges,1,2183,Transport safety,0
-2166,Bridges,1,2180,Other transport infrastructure access and use,0
-2166,Bridges,1,2174,Affordability,0
-2166,Bridges,1,2191,Equity in public transport access and safety,0
-2166,Bridges,1,2175,Service management,0
-2166,Bridges,1,2192,Air pollution and greenhouse gases,0
-2166,Bridges,1,2178,Private vehicle use,0
-2166,Bridges,1,2200,Crime and citizen security,0
-2166,Bridges,1,2189,Operational environmental sustainability,0
-2166,Bridges,1,2190,Financial performance,0
-2166,Bridges,1,2188,Operational efficiency,0
-2166,Bridges,1,2186,Vehicle ownership costs,0
-2166,Bridges,1,2199,Inequality and segregation,0
-2166,Bridges,1,2182,Time used in other activities,0
-2206,"Multi-component roads, regional transportation and logistics",1,2187,Government expenditure on transport,0
-2206,"Multi-component roads, regional transportation and logistics",1,2177,Public transit access and use,0
-2206,"Multi-component roads, regional transportation and logistics",1,2193,Noise pollution,0
-2206,"Multi-component roads, regional transportation and logistics",1,2153,Quality,0
-2206,"Multi-component roads, regional transportation and logistics",1,2179,Rail services access and use,0
-2206,"Multi-component roads, regional transportation and logistics",1,2198,Access to other goods and services,0
-2206,"Multi-component roads, regional transportation and logistics",1,2152,Access and use,0
-2206,"Multi-component roads, regional transportation and logistics",1,2176,Socioeconomic results,0
-2206,"Multi-component roads, regional transportation and logistics",1,2183,Transport safety,0
-2206,"Multi-component roads, regional transportation and logistics",1,2180,Other transport infrastructure access and use,0
-2206,"Multi-component roads, regional transportation and logistics",1,2174,Affordability,0
-2206,"Multi-component roads, regional transportation and logistics",1,2191,Equity in public transport access and safety,0
-2206,"Multi-component roads, regional transportation and logistics",1,2175,Service management,0
-2206,"Multi-component roads, regional transportation and logistics",1,2178,Private vehicle use,0
-2206,"Multi-component roads, regional transportation and logistics",1,2200,Crime and citizen security,0
-2206,"Multi-component roads, regional transportation and logistics",1,2181,"Travel time, commuting and speed",0
-2206,"Multi-component roads, regional transportation and logistics",1,2189,Operational environmental sustainability,0
-2206,"Multi-component roads, regional transportation and logistics",1,2190,Financial performance,0
-2206,"Multi-component roads, regional transportation and logistics",1,2188,Operational efficiency,0
-2206,"Multi-component roads, regional transportation and logistics",1,2186,Vehicle ownership costs,0
-2206,"Multi-component roads, regional transportation and logistics",1,2184,Resilience and continuity,0
-2206,"Multi-component roads, regional transportation and logistics",1,2182,Time used in other activities,0
-2170,Low-emission mobility: policy and regulations,1,2187,Government expenditure on transport,0
-2170,Low-emission mobility: policy and regulations,1,2193,Noise pollution,0
-2170,Low-emission mobility: policy and regulations,1,2153,Quality,0
-2170,Low-emission mobility: policy and regulations,1,2179,Rail services access and use,0
-2170,Low-emission mobility: policy and regulations,1,2198,Access to other goods and services,0
-2170,Low-emission mobility: policy and regulations,1,2204,Agricultural outcomes,0
-2170,Low-emission mobility: policy and regulations,1,2152,Access and use,0
-2170,Low-emission mobility: policy and regulations,1,2361,Household welfare and poverty,0
-2170,Low-emission mobility: policy and regulations,1,2176,Socioeconomic results,0
-2170,Low-emission mobility: policy and regulations,1,2183,Transport safety,0
-2170,Low-emission mobility: policy and regulations,1,2174,Affordability,0
-2170,Low-emission mobility: policy and regulations,1,2203,Trade and migration,0
-2170,Low-emission mobility: policy and regulations,1,2191,Equity in public transport access and safety,0
-2170,Low-emission mobility: policy and regulations,1,2175,Service management,0
-2170,Low-emission mobility: policy and regulations,1,2201,Employment access and outcomes,0
-2170,Low-emission mobility: policy and regulations,1,2200,Crime and citizen security,0
-2170,Low-emission mobility: policy and regulations,1,2189,Operational environmental sustainability,0
-2170,Low-emission mobility: policy and regulations,1,2190,Financial performance,0
-2170,Low-emission mobility: policy and regulations,1,2188,Operational efficiency,0
-2170,Low-emission mobility: policy and regulations,1,2184,Resilience and continuity,0
-2170,Low-emission mobility: policy and regulations,1,2199,Inequality and segregation,0
-2170,Low-emission mobility: policy and regulations,1,2182,Time used in other activities,0
-2169,Subsidies for public transit,1,2187,Government expenditure on transport,0
-2169,Subsidies for public transit,1,2193,Noise pollution,0
-2169,Subsidies for public transit,1,2153,Quality,0
-2169,Subsidies for public transit,1,2198,Access to other goods and services,0
-2169,Subsidies for public transit,1,2204,Agricultural outcomes,0
-2169,Subsidies for public transit,1,2152,Access and use,0
-2169,Subsidies for public transit,1,2361,Household welfare and poverty,0
-2169,Subsidies for public transit,1,2176,Socioeconomic results,0
-2169,Subsidies for public transit,1,2183,Transport safety,0
-2169,Subsidies for public transit,1,2174,Affordability,0
-2169,Subsidies for public transit,1,2191,Equity in public transport access and safety,0
-2169,Subsidies for public transit,1,2175,Service management,0
-2169,Subsidies for public transit,1,2200,Crime and citizen security,0
-2169,Subsidies for public transit,1,2194,"Land, housing, and rent prices and affordability",0
-2169,Subsidies for public transit,1,2196,Health access and outcomes,0
-2169,Subsidies for public transit,1,2189,Operational environmental sustainability,0
-2169,Subsidies for public transit,1,2186,Vehicle ownership costs,0
-2169,Subsidies for public transit,1,2184,Resilience and continuity,0
-2163,Highways and national roads,1,2187,Government expenditure on transport,0
-2163,Highways and national roads,1,2177,Public transit access and use,0
-2163,Highways and national roads,1,2193,Noise pollution,0
-2163,Highways and national roads,1,2153,Quality,0
-2163,Highways and national roads,1,2198,Access to other goods and services,0
-2163,Highways and national roads,1,2152,Access and use,0
-2163,Highways and national roads,1,2185,Transit affordability,0
-2163,Highways and national roads,1,2176,Socioeconomic results,0
-2163,Highways and national roads,1,2174,Affordability,0
-2163,Highways and national roads,1,2175,Service management,0
-2163,Highways and national roads,1,2189,Operational environmental sustainability,0
-2163,Highways and national roads,1,2190,Financial performance,0
-2163,Highways and national roads,1,2188,Operational efficiency,0
-2163,Highways and national roads,1,2186,Vehicle ownership costs,0
-2163,Highways and national roads,1,2184,Resilience and continuity,0
-2163,Highways and national roads,1,2182,Time used in other activities,0
-2158,"Active mobility (pedestrian, bicycles, etc.)",1,2187,Government expenditure on transport,0
-2158,"Active mobility (pedestrian, bicycles, etc.)",1,2193,Noise pollution,0
-2158,"Active mobility (pedestrian, bicycles, etc.)",1,2153,Quality,0
-2158,"Active mobility (pedestrian, bicycles, etc.)",1,2179,Rail services access and use,0
-2158,"Active mobility (pedestrian, bicycles, etc.)",1,2198,Access to other goods and services,0
-2158,"Active mobility (pedestrian, bicycles, etc.)",1,2204,Agricultural outcomes,0
-2158,"Active mobility (pedestrian, bicycles, etc.)",1,2152,Access and use,0
-2158,"Active mobility (pedestrian, bicycles, etc.)",1,2185,Transit affordability,0
-2158,"Active mobility (pedestrian, bicycles, etc.)",1,2361,Household welfare and poverty,0
-2158,"Active mobility (pedestrian, bicycles, etc.)",1,2195,Goods and services prices and inflation,0
-2158,"Active mobility (pedestrian, bicycles, etc.)",1,2176,Socioeconomic results,0
-2158,"Active mobility (pedestrian, bicycles, etc.)",1,2174,Affordability,0
-2158,"Active mobility (pedestrian, bicycles, etc.)",1,2191,Equity in public transport access and safety,0
-2158,"Active mobility (pedestrian, bicycles, etc.)",1,2175,Service management,0
-2158,"Active mobility (pedestrian, bicycles, etc.)",1,2189,Operational environmental sustainability,0
-2158,"Active mobility (pedestrian, bicycles, etc.)",1,2190,Financial performance,0
-2158,"Active mobility (pedestrian, bicycles, etc.)",1,2186,Vehicle ownership costs,0
-2158,"Active mobility (pedestrian, bicycles, etc.)",1,2184,Resilience and continuity,0
-2158,"Active mobility (pedestrian, bicycles, etc.)",1,2199,Inequality and segregation,0
-2158,"Active mobility (pedestrian, bicycles, etc.)",1,2197,Education access and outcomes,0
-2247,Multi-component intervention category,1,2187,Government expenditure on transport,0
-2247,Multi-component intervention category,1,2177,Public transit access and use,0
-2247,Multi-component intervention category,1,2193,Noise pollution,0
-2247,Multi-component intervention category,1,2153,Quality,0
-2247,Multi-component intervention category,1,2179,Rail services access and use,0
-2247,Multi-component intervention category,1,2198,Access to other goods and services,0
-2247,Multi-component intervention category,1,2204,Agricultural outcomes,0
-2247,Multi-component intervention category,1,2152,Access and use,0
-2247,Multi-component intervention category,1,2185,Transit affordability,0
-2247,Multi-component intervention category,1,2176,Socioeconomic results,0
-2247,Multi-component intervention category,1,2174,Affordability,0
-2247,Multi-component intervention category,1,2191,Equity in public transport access and safety,0
-2247,Multi-component intervention category,1,2175,Service management,0
-2247,Multi-component intervention category,1,2192,Air pollution and greenhouse gases,0
-2247,Multi-component intervention category,1,2200,Crime and citizen security,0
-2247,Multi-component intervention category,1,2181,"Travel time, commuting and speed",0
-2247,Multi-component intervention category,1,2196,Health access and outcomes,0
-2247,Multi-component intervention category,1,2189,Operational environmental sustainability,0
-2247,Multi-component intervention category,1,2190,Financial performance,0
-2247,Multi-component intervention category,1,2188,Operational efficiency,0
-2247,Multi-component intervention category,1,2186,Vehicle ownership costs,0
-2247,Multi-component intervention category,1,2184,Resilience and continuity,0
-2247,Multi-component intervention category,1,2197,Education access and outcomes,0
-2247,Multi-component intervention category,1,2182,Time used in other activities,0
-2246,Multi-component interventions,1,2187,Government expenditure on transport,0
-2246,Multi-component interventions,1,2177,Public transit access and use,0
-2246,Multi-component interventions,1,2193,Noise pollution,0
-2246,Multi-component interventions,1,2153,Quality,0
-2246,Multi-component interventions,1,2179,Rail services access and use,0
-2246,Multi-component interventions,1,2198,Access to other goods and services,0
-2246,Multi-component interventions,1,2204,Agricultural outcomes,0
-2246,Multi-component interventions,1,2152,Access and use,0
-2246,Multi-component interventions,1,2185,Transit affordability,0
-2246,Multi-component interventions,1,2361,Household welfare and poverty,0
-2246,Multi-component interventions,1,2195,Goods and services prices and inflation,0
-2246,Multi-component interventions,1,2176,Socioeconomic results,0
-2246,Multi-component interventions,1,2183,Transport safety,0
-2246,Multi-component interventions,1,2180,Other transport infrastructure access and use,0
-2246,Multi-component interventions,1,2174,Affordability,0
-2246,Multi-component interventions,1,2203,Trade and migration,0
-2246,Multi-component interventions,1,2191,Equity in public transport access and safety,0
-2246,Multi-component interventions,1,2175,Service management,0
-2246,Multi-component interventions,1,2192,Air pollution and greenhouse gases,0
-2246,Multi-component interventions,1,2178,Private vehicle use,0
-2246,Multi-component interventions,1,2201,Employment access and outcomes,0
-2246,Multi-component interventions,1,2200,Crime and citizen security,0
-2246,Multi-component interventions,1,2194,"Land, housing, and rent prices and affordability",0
-2246,Multi-component interventions,1,2181,"Travel time, commuting and speed",0
-2246,Multi-component interventions,1,2196,Health access and outcomes,0
-2246,Multi-component interventions,1,2189,Operational environmental sustainability,0
-2246,Multi-component interventions,1,2190,Financial performance,0
-2246,Multi-component interventions,1,2188,Operational efficiency,0
-2246,Multi-component interventions,1,2186,Vehicle ownership costs,0
-2246,Multi-component interventions,1,2202,Economic activity,0
-2246,Multi-component interventions,1,2184,Resilience and continuity,0
-2246,Multi-component interventions,1,2199,Inequality and segregation,0
-2246,Multi-component interventions,1,2197,Education access and outcomes,0
-2246,Multi-component interventions,1,2182,Time used in other activities,0
-2172,"Circulation restrictions, non-price based",1,2187,Government expenditure on transport,0
-2172,"Circulation restrictions, non-price based",1,2193,Noise pollution,0
-2172,"Circulation restrictions, non-price based",1,2153,Quality,0
-2172,"Circulation restrictions, non-price based",1,2179,Rail services access and use,0
-2172,"Circulation restrictions, non-price based",1,2198,Access to other goods and services,0
-2172,"Circulation restrictions, non-price based",1,2152,Access and use,0
-2172,"Circulation restrictions, non-price based",1,2176,Socioeconomic results,0
-2172,"Circulation restrictions, non-price based",1,2174,Affordability,0
-2172,"Circulation restrictions, non-price based",1,2175,Service management,0
-2172,"Circulation restrictions, non-price based",1,2189,Operational environmental sustainability,0
-2172,"Circulation restrictions, non-price based",1,2190,Financial performance,0
-2172,"Circulation restrictions, non-price based",1,2188,Operational efficiency,0
-2172,"Circulation restrictions, non-price based",1,2186,Vehicle ownership costs,0
-2172,"Circulation restrictions, non-price based",1,2184,Resilience and continuity,0
-2172,"Circulation restrictions, non-price based",1,2199,Inequality and segregation,0
-2172,"Circulation restrictions, non-price based",1,2182,Time used in other activities,0
-2207,"Multi-component law, regulations and policy",1,2193,Noise pollution,0
-2207,"Multi-component law, regulations and policy",1,2153,Quality,0
-2207,"Multi-component law, regulations and policy",1,2179,Rail services access and use,0
-2207,"Multi-component law, regulations and policy",1,2204,Agricultural outcomes,0
-2207,"Multi-component law, regulations and policy",1,2152,Access and use,0
-2207,"Multi-component law, regulations and policy",1,2185,Transit affordability,0
-2207,"Multi-component law, regulations and policy",1,2361,Household welfare and poverty,0
-2207,"Multi-component law, regulations and policy",1,2195,Goods and services prices and inflation,0
-2207,"Multi-component law, regulations and policy",1,2176,Socioeconomic results,0
-2207,"Multi-component law, regulations and policy",1,2183,Transport safety,0
-2207,"Multi-component law, regulations and policy",1,2180,Other transport infrastructure access and use,0
-2207,"Multi-component law, regulations and policy",1,2174,Affordability,0
-2207,"Multi-component law, regulations and policy",1,2203,Trade and migration,0
-2207,"Multi-component law, regulations and policy",1,2175,Service management,0
-2207,"Multi-component law, regulations and policy",1,2178,Private vehicle use,0
-2207,"Multi-component law, regulations and policy",1,2200,Crime and citizen security,0
-2207,"Multi-component law, regulations and policy",1,2194,"Land, housing, and rent prices and affordability",0
-2207,"Multi-component law, regulations and policy",1,2181,"Travel time, commuting and speed",0
-2207,"Multi-component law, regulations and policy",1,2189,Operational environmental sustainability,0
-2207,"Multi-component law, regulations and policy",1,2190,Financial performance,0
-2207,"Multi-component law, regulations and policy",1,2188,Operational efficiency,0
-2207,"Multi-component law, regulations and policy",1,2186,Vehicle ownership costs,0
-2207,"Multi-component law, regulations and policy",1,2202,Economic activity,0
-2207,"Multi-component law, regulations and policy",1,2184,Resilience and continuity,0
-2207,"Multi-component law, regulations and policy",1,2199,Inequality and segregation,0
-2207,"Multi-component law, regulations and policy",1,2182,Time used in other activities,0
-2161,Urban traffic management systems,1,2187,Government expenditure on transport,0
-2161,Urban traffic management systems,1,2193,Noise pollution,0
-2161,Urban traffic management systems,1,2153,Quality,0
-2161,Urban traffic management systems,1,2179,Rail services access and use,0
-2161,Urban traffic management systems,1,2198,Access to other goods and services,0
-2161,Urban traffic management systems,1,2204,Agricultural outcomes,0
-2161,Urban traffic management systems,1,2152,Access and use,0
-2161,Urban traffic management systems,1,2185,Transit affordability,0
-2161,Urban traffic management systems,1,2361,Household welfare and poverty,0
-2161,Urban traffic management systems,1,2176,Socioeconomic results,0
-2161,Urban traffic management systems,1,2174,Affordability,0
-2161,Urban traffic management systems,1,2203,Trade and migration,0
-2161,Urban traffic management systems,1,2191,Equity in public transport access and safety,0
-2161,Urban traffic management systems,1,2175,Service management,0
-2161,Urban traffic management systems,1,2192,Air pollution and greenhouse gases,0
-2161,Urban traffic management systems,1,2200,Crime and citizen security,0
-2161,Urban traffic management systems,1,2194,"Land, housing, and rent prices and affordability",0
-2161,Urban traffic management systems,1,2189,Operational environmental sustainability,0
-2161,Urban traffic management systems,1,2190,Financial performance,0
-2161,Urban traffic management systems,1,2188,Operational efficiency,0
-2161,Urban traffic management systems,1,2186,Vehicle ownership costs,0
-2161,Urban traffic management systems,1,2202,Economic activity,0
-2161,Urban traffic management systems,1,2184,Resilience and continuity,0
-2161,Urban traffic management systems,1,2197,Education access and outcomes,0
-2161,Urban traffic management systems,1,2182,Time used in other activities,0
-2160,Low-emission mobility: infrastructure,1,2187,Government expenditure on transport,0
-2160,Low-emission mobility: infrastructure,1,2193,Noise pollution,0
-2160,Low-emission mobility: infrastructure,1,2153,Quality,0
-2160,Low-emission mobility: infrastructure,1,2179,Rail services access and use,0
-2160,Low-emission mobility: infrastructure,1,2198,Access to other goods and services,0
-2160,Low-emission mobility: infrastructure,1,2204,Agricultural outcomes,0
-2160,Low-emission mobility: infrastructure,1,2152,Access and use,0
-2160,Low-emission mobility: infrastructure,1,2185,Transit affordability,0
-2160,Low-emission mobility: infrastructure,1,2361,Household welfare and poverty,0
-2160,Low-emission mobility: infrastructure,1,2195,Goods and services prices and inflation,0
-2160,Low-emission mobility: infrastructure,1,2176,Socioeconomic results,0
-2160,Low-emission mobility: infrastructure,1,2183,Transport safety,0
-2160,Low-emission mobility: infrastructure,1,2174,Affordability,0
-2160,Low-emission mobility: infrastructure,1,2203,Trade and migration,0
-2160,Low-emission mobility: infrastructure,1,2191,Equity in public transport access and safety,0
-2160,Low-emission mobility: infrastructure,1,2175,Service management,0
-2160,Low-emission mobility: infrastructure,1,2192,Air pollution and greenhouse gases,0
-2160,Low-emission mobility: infrastructure,1,2201,Employment access and outcomes,0
-2160,Low-emission mobility: infrastructure,1,2200,Crime and citizen security,0
-2160,Low-emission mobility: infrastructure,1,2189,Operational environmental sustainability,0
-2160,Low-emission mobility: infrastructure,1,2190,Financial performance,0
-2160,Low-emission mobility: infrastructure,1,2188,Operational efficiency,0
-2160,Low-emission mobility: infrastructure,1,2186,Vehicle ownership costs,0
-2160,Low-emission mobility: infrastructure,1,2202,Economic activity,0
-2160,Low-emission mobility: infrastructure,1,2184,Resilience and continuity,0
-2160,Low-emission mobility: infrastructure,1,2199,Inequality and segregation,0
-2160,Low-emission mobility: infrastructure,1,2197,Education access and outcomes,0
-2160,Low-emission mobility: infrastructure,1,2182,Time used in other activities,0
-2205,Multi-component urban mobility infrastructure,1,2187,Government expenditure on transport,0
-2205,Multi-component urban mobility infrastructure,1,2193,Noise pollution,0
-2205,Multi-component urban mobility infrastructure,1,2153,Quality,0
-2205,Multi-component urban mobility infrastructure,1,2179,Rail services access and use,0
-2205,Multi-component urban mobility infrastructure,1,2198,Access to other goods and services,0
-2205,Multi-component urban mobility infrastructure,1,2204,Agricultural outcomes,0
-2205,Multi-component urban mobility infrastructure,1,2152,Access and use,0
-2205,Multi-component urban mobility infrastructure,1,2361,Household welfare and poverty,0
-2205,Multi-component urban mobility infrastructure,1,2195,Goods and services prices and inflation,0
-2205,Multi-component urban mobility infrastructure,1,2176,Socioeconomic results,0
-2205,Multi-component urban mobility infrastructure,1,2174,Affordability,0
-2205,Multi-component urban mobility infrastructure,1,2203,Trade and migration,0
-2205,Multi-component urban mobility infrastructure,1,2175,Service management,0
-2205,Multi-component urban mobility infrastructure,1,2192,Air pollution and greenhouse gases,0
-2205,Multi-component urban mobility infrastructure,1,2178,Private vehicle use,0
-2205,Multi-component urban mobility infrastructure,1,2200,Crime and citizen security,0
-2205,Multi-component urban mobility infrastructure,1,2194,"Land, housing, and rent prices and affordability",0
-2205,Multi-component urban mobility infrastructure,1,2181,"Travel time, commuting and speed",0
-2205,Multi-component urban mobility infrastructure,1,2196,Health access and outcomes,0
-2205,Multi-component urban mobility infrastructure,1,2189,Operational environmental sustainability,0
-2205,Multi-component urban mobility infrastructure,1,2190,Financial performance,0
-2205,Multi-component urban mobility infrastructure,1,2188,Operational efficiency,0
-2205,Multi-component urban mobility infrastructure,1,2186,Vehicle ownership costs,0
-2205,Multi-component urban mobility infrastructure,1,2202,Economic activity,0
-2205,Multi-component urban mobility infrastructure,1,2184,Resilience and continuity,0
-2205,Multi-component urban mobility infrastructure,1,2199,Inequality and segregation,0
-2205,Multi-component urban mobility infrastructure,1,2182,Time used in other activities,0
-2159,Urban roads,1,2187,Government expenditure on transport,0
-2159,Urban roads,1,2177,Public transit access and use,0
-2159,Urban roads,1,2153,Quality,0
-2159,Urban roads,1,2152,Access and use,0
-2159,Urban roads,1,2176,Socioeconomic results,0
-2159,Urban roads,1,2174,Affordability,0
-2159,Urban roads,1,2175,Service management,0
-2159,Urban roads,1,2200,Crime and citizen security,0
-2159,Urban roads,1,2189,Operational environmental sustainability,0
-2159,Urban roads,1,2188,Operational efficiency,0
-2159,Urban roads,1,2186,Vehicle ownership costs,0
-2159,Urban roads,1,2184,Resilience and continuity,0
-2167,Ports,1,2187,Government expenditure on transport,0
-2167,Ports,1,2177,Public transit access and use,0
-2167,Ports,1,2193,Noise pollution,0
-2167,Ports,1,2153,Quality,0
-2167,Ports,1,2179,Rail services access and use,0
-2167,Ports,1,2198,Access to other goods and services,0
-2167,Ports,1,2152,Access and use,0
-2167,Ports,1,2185,Transit affordability,0
-2167,Ports,1,2176,Socioeconomic results,0
-2167,Ports,1,2183,Transport safety,0
-2167,Ports,1,2180,Other transport infrastructure access and use,0
-2167,Ports,1,2174,Affordability,0
-2167,Ports,1,2191,Equity in public transport access and safety,0
-2167,Ports,1,2175,Service management,0
-2167,Ports,1,2192,Air pollution and greenhouse gases,0
-2167,Ports,1,2178,Private vehicle use,0
-2167,Ports,1,2200,Crime and citizen security,0
-2167,Ports,1,2181,"Travel time, commuting and speed",0
-2167,Ports,1,2189,Operational environmental sustainability,0
-2167,Ports,1,2190,Financial performance,0
-2167,Ports,1,2188,Operational efficiency,0
-2167,Ports,1,2186,Vehicle ownership costs,0
-2167,Ports,1,2184,Resilience and continuity,0
-2167,Ports,1,2182,Time used in other activities,0
-2154,Bus Rapid Transit (BRT),1,2187,Government expenditure on transport,0
-2154,Bus Rapid Transit (BRT),1,2193,Noise pollution,0
-2154,Bus Rapid Transit (BRT),1,2153,Quality,0
-2154,Bus Rapid Transit (BRT),1,2179,Rail services access and use,0
-2154,Bus Rapid Transit (BRT),1,2198,Access to other goods and services,0
-2154,Bus Rapid Transit (BRT),1,2204,Agricultural outcomes,0
-2154,Bus Rapid Transit (BRT),1,2152,Access and use,0
-2154,Bus Rapid Transit (BRT),1,2361,Household welfare and poverty,0
-2154,Bus Rapid Transit (BRT),1,2176,Socioeconomic results,0
-2154,Bus Rapid Transit (BRT),1,2180,Other transport infrastructure access and use,0
-2154,Bus Rapid Transit (BRT),1,2174,Affordability,0
-2154,Bus Rapid Transit (BRT),1,2175,Service management,0
-2154,Bus Rapid Transit (BRT),1,2189,Operational environmental sustainability,0
-2154,Bus Rapid Transit (BRT),1,2190,Financial performance,0
-2154,Bus Rapid Transit (BRT),1,2186,Vehicle ownership costs,0
-2154,Bus Rapid Transit (BRT),1,2184,Resilience and continuity,0
-2154,Bus Rapid Transit (BRT),1,2182,Time used in other activities,0
-2156,Cables,1,2187,Government expenditure on transport,0
-2156,Cables,1,2193,Noise pollution,0
-2156,Cables,1,2153,Quality,0
-2156,Cables,1,2179,Rail services access and use,0
-2156,Cables,1,2198,Access to other goods and services,0
-2156,Cables,1,2204,Agricultural outcomes,0
-2156,Cables,1,2152,Access and use,0
-2156,Cables,1,2195,Goods and services prices and inflation,0
-2156,Cables,1,2176,Socioeconomic results,0
-2156,Cables,1,2183,Transport safety,0
-2156,Cables,1,2180,Other transport infrastructure access and use,0
-2156,Cables,1,2174,Affordability,0
-2156,Cables,1,2203,Trade and migration,0
-2156,Cables,1,2191,Equity in public transport access and safety,0
-2156,Cables,1,2175,Service management,0
-2156,Cables,1,2189,Operational environmental sustainability,0
-2156,Cables,1,2190,Financial performance,0
-2156,Cables,1,2188,Operational efficiency,0
-2156,Cables,1,2186,Vehicle ownership costs,0
-2156,Cables,1,2202,Economic activity,0
-2156,Cables,1,2184,Resilience and continuity,0
-2156,Cables,1,2199,Inequality and segregation,0
-2156,Cables,1,2197,Education access and outcomes,0
-2150,Urban mobility infrastructure,1,2187,Government expenditure on transport,0
-2150,Urban mobility infrastructure,1,2177,Public transit access and use,0
-2150,Urban mobility infrastructure,1,2193,Noise pollution,0
-2150,Urban mobility infrastructure,1,2153,Quality,0
-2150,Urban mobility infrastructure,1,2179,Rail services access and use,0
-2150,Urban mobility infrastructure,1,2198,Access to other goods and services,0
-2150,Urban mobility infrastructure,1,2204,Agricultural outcomes,0
-2150,Urban mobility infrastructure,1,2152,Access and use,0
-2150,Urban mobility infrastructure,1,2185,Transit affordability,0
-2150,Urban mobility infrastructure,1,2361,Household welfare and poverty,0
-2150,Urban mobility infrastructure,1,2195,Goods and services prices and inflation,0
-2150,Urban mobility infrastructure,1,2176,Socioeconomic results,0
-2150,Urban mobility infrastructure,1,2183,Transport safety,0
-2150,Urban mobility infrastructure,1,2180,Other transport infrastructure access and use,0
-2150,Urban mobility infrastructure,1,2174,Affordability,0
-2150,Urban mobility infrastructure,1,2203,Trade and migration,0
-2150,Urban mobility infrastructure,1,2191,Equity in public transport access and safety,0
-2150,Urban mobility infrastructure,1,2175,Service management,0
-2150,Urban mobility infrastructure,1,2192,Air pollution and greenhouse gases,0
-2150,Urban mobility infrastructure,1,2178,Private vehicle use,0
+2150,Urban mobility infrastructure,1,2189,Operational environmental sustainability,0
+2150,Urban mobility infrastructure,1,2184,Resilience and continuity,0
 2150,Urban mobility infrastructure,1,2201,Employment access and outcomes,0
-2150,Urban mobility infrastructure,1,2200,Crime and citizen security,0
-2150,Urban mobility infrastructure,1,2194,"Land, housing, and rent prices and affordability",0
+2150,Urban mobility infrastructure,1,2187,Government expenditure on transport,0
+2150,Urban mobility infrastructure,1,2180,Other transport infrastructure access and use,0
+2150,Urban mobility infrastructure,1,2178,Private vehicle use,0
+2150,Urban mobility infrastructure,1,2199,Inequality and segregation,0
+2150,Urban mobility infrastructure,1,2188,Operational efficiency,0
 2150,Urban mobility infrastructure,1,2181,"Travel time, commuting and speed",0
 2150,Urban mobility infrastructure,1,2196,Health access and outcomes,0
-2150,Urban mobility infrastructure,1,2189,Operational environmental sustainability,0
-2150,Urban mobility infrastructure,1,2190,Financial performance,0
-2150,Urban mobility infrastructure,1,2188,Operational efficiency,0
+2150,Urban mobility infrastructure,1,2176,Socioeconomic results,0
 2150,Urban mobility infrastructure,1,2186,Vehicle ownership costs,0
-2150,Urban mobility infrastructure,1,2202,Economic activity,0
-2150,Urban mobility infrastructure,1,2184,Resilience and continuity,0
-2150,Urban mobility infrastructure,1,2199,Inequality and segregation,0
-2150,Urban mobility infrastructure,1,2197,Education access and outcomes,0
+2150,Urban mobility infrastructure,1,2193,Noise pollution,0
+2150,Urban mobility infrastructure,1,2153,Quality,0
+2150,Urban mobility infrastructure,1,2204,Agricultural outcomes,0
+2150,Urban mobility infrastructure,1,2194,"Land, housing, and rent prices and affordability",0
 2150,Urban mobility infrastructure,1,2182,Time used in other activities,0
-2157,"Law, regulations and policy",1,2187,Government expenditure on transport,0
-2157,"Law, regulations and policy",1,2177,Public transit access and use,0
-2157,"Law, regulations and policy",1,2193,Noise pollution,0
-2157,"Law, regulations and policy",1,2153,Quality,0
-2157,"Law, regulations and policy",1,2179,Rail services access and use,0
-2157,"Law, regulations and policy",1,2198,Access to other goods and services,0
-2157,"Law, regulations and policy",1,2204,Agricultural outcomes,0
-2157,"Law, regulations and policy",1,2152,Access and use,0
-2157,"Law, regulations and policy",1,2185,Transit affordability,0
-2157,"Law, regulations and policy",1,2361,Household welfare and poverty,0
-2157,"Law, regulations and policy",1,2195,Goods and services prices and inflation,0
-2157,"Law, regulations and policy",1,2176,Socioeconomic results,0
-2157,"Law, regulations and policy",1,2183,Transport safety,0
-2157,"Law, regulations and policy",1,2180,Other transport infrastructure access and use,0
-2157,"Law, regulations and policy",1,2174,Affordability,0
-2157,"Law, regulations and policy",1,2203,Trade and migration,0
-2157,"Law, regulations and policy",1,2191,Equity in public transport access and safety,0
-2157,"Law, regulations and policy",1,2175,Service management,0
-2157,"Law, regulations and policy",1,2192,Air pollution and greenhouse gases,0
-2157,"Law, regulations and policy",1,2178,Private vehicle use,0
-2157,"Law, regulations and policy",1,2201,Employment access and outcomes,0
-2157,"Law, regulations and policy",1,2200,Crime and citizen security,0
-2157,"Law, regulations and policy",1,2194,"Land, housing, and rent prices and affordability",0
-2157,"Law, regulations and policy",1,2181,"Travel time, commuting and speed",0
-2157,"Law, regulations and policy",1,2196,Health access and outcomes,0
-2157,"Law, regulations and policy",1,2189,Operational environmental sustainability,0
-2157,"Law, regulations and policy",1,2190,Financial performance,0
-2157,"Law, regulations and policy",1,2188,Operational efficiency,0
-2157,"Law, regulations and policy",1,2186,Vehicle ownership costs,0
-2157,"Law, regulations and policy",1,2202,Economic activity,0
-2157,"Law, regulations and policy",1,2184,Resilience and continuity,0
-2157,"Law, regulations and policy",1,2199,Inequality and segregation,0
-2157,"Law, regulations and policy",1,2197,Education access and outcomes,0
-2157,"Law, regulations and policy",1,2182,Time used in other activities,0
+2150,Urban mobility infrastructure,1,2175,Service management,0
+2150,Urban mobility infrastructure,1,2195,Goods and services prices and inflation,0
+2150,Urban mobility infrastructure,1,2174,Affordability,0
+2150,Urban mobility infrastructure,1,2198,Access to other goods and services,0
+2150,Urban mobility infrastructure,1,2197,Education access and outcomes,0
+2150,Urban mobility infrastructure,1,2185,Transit affordability,0
+2150,Urban mobility infrastructure,1,2177,Public transit access and use,0
+2150,Urban mobility infrastructure,1,2191,Equity in public transport access and safety,0
+2150,Urban mobility infrastructure,1,2200,Crime and citizen security,0
+2150,Urban mobility infrastructure,1,2183,Transport safety,0
+2150,Urban mobility infrastructure,1,2190,Financial performance,0
+2150,Urban mobility infrastructure,1,2203,Trade and migration,0
+2150,Urban mobility infrastructure,1,2152,Access and use,0
+2150,Urban mobility infrastructure,1,2202,Economic activity,0
+2150,Urban mobility infrastructure,1,2361,Household welfare and poverty,0
+2150,Urban mobility infrastructure,1,2179,Rail services access and use,0
+2150,Urban mobility infrastructure,1,2192,Air pollution and greenhouse gases,0
+2173,Transportation network companies (ride-sharing firms),1,2189,Operational environmental sustainability,0
+2173,Transportation network companies (ride-sharing firms),1,2184,Resilience and continuity,0
 2173,Transportation network companies (ride-sharing firms),1,2187,Government expenditure on transport,0
+2173,Transportation network companies (ride-sharing firms),1,2199,Inequality and segregation,0
+2173,Transportation network companies (ride-sharing firms),1,2188,Operational efficiency,0
+2173,Transportation network companies (ride-sharing firms),1,2176,Socioeconomic results,0
 2173,Transportation network companies (ride-sharing firms),1,2193,Noise pollution,0
 2173,Transportation network companies (ride-sharing firms),1,2153,Quality,0
-2173,Transportation network companies (ride-sharing firms),1,2198,Access to other goods and services,0
 2173,Transportation network companies (ride-sharing firms),1,2204,Agricultural outcomes,0
-2173,Transportation network companies (ride-sharing firms),1,2152,Access and use,0
-2173,Transportation network companies (ride-sharing firms),1,2185,Transit affordability,0
-2173,Transportation network companies (ride-sharing firms),1,2195,Goods and services prices and inflation,0
-2173,Transportation network companies (ride-sharing firms),1,2176,Socioeconomic results,0
-2173,Transportation network companies (ride-sharing firms),1,2174,Affordability,0
-2173,Transportation network companies (ride-sharing firms),1,2203,Trade and migration,0
-2173,Transportation network companies (ride-sharing firms),1,2191,Equity in public transport access and safety,0
-2173,Transportation network companies (ride-sharing firms),1,2175,Service management,0
-2173,Transportation network companies (ride-sharing firms),1,2189,Operational environmental sustainability,0
-2173,Transportation network companies (ride-sharing firms),1,2190,Financial performance,0
-2173,Transportation network companies (ride-sharing firms),1,2188,Operational efficiency,0
-2173,Transportation network companies (ride-sharing firms),1,2184,Resilience and continuity,0
-2173,Transportation network companies (ride-sharing firms),1,2199,Inequality and segregation,0
-2173,Transportation network companies (ride-sharing firms),1,2197,Education access and outcomes,0
 2173,Transportation network companies (ride-sharing firms),1,2182,Time used in other activities,0
-2155,"Urban trains (subways, passenger trains, LRT, metros)",1,2187,Government expenditure on transport,0
-2155,"Urban trains (subways, passenger trains, LRT, metros)",1,2193,Noise pollution,0
-2155,"Urban trains (subways, passenger trains, LRT, metros)",1,2153,Quality,0
-2155,"Urban trains (subways, passenger trains, LRT, metros)",1,2152,Access and use,0
-2155,"Urban trains (subways, passenger trains, LRT, metros)",1,2185,Transit affordability,0
-2155,"Urban trains (subways, passenger trains, LRT, metros)",1,2176,Socioeconomic results,0
-2155,"Urban trains (subways, passenger trains, LRT, metros)",1,2174,Affordability,0
-2155,"Urban trains (subways, passenger trains, LRT, metros)",1,2175,Service management,0
-2155,"Urban trains (subways, passenger trains, LRT, metros)",1,2189,Operational environmental sustainability,0
-2155,"Urban trains (subways, passenger trains, LRT, metros)",1,2190,Financial performance,0
-2155,"Urban trains (subways, passenger trains, LRT, metros)",1,2188,Operational efficiency,0
-2155,"Urban trains (subways, passenger trains, LRT, metros)",1,2186,Vehicle ownership costs,0
-2155,"Urban trains (subways, passenger trains, LRT, metros)",1,2184,Resilience and continuity,0
-2155,"Urban trains (subways, passenger trains, LRT, metros)",1,2182,Time used in other activities,0
+2173,Transportation network companies (ride-sharing firms),1,2175,Service management,0
+2173,Transportation network companies (ride-sharing firms),1,2195,Goods and services prices and inflation,0
+2173,Transportation network companies (ride-sharing firms),1,2174,Affordability,0
+2173,Transportation network companies (ride-sharing firms),1,2198,Access to other goods and services,0
+2173,Transportation network companies (ride-sharing firms),1,2197,Education access and outcomes,0
+2173,Transportation network companies (ride-sharing firms),1,2185,Transit affordability,0
+2173,Transportation network companies (ride-sharing firms),1,2191,Equity in public transport access and safety,0
+2173,Transportation network companies (ride-sharing firms),1,2190,Financial performance,0
+2173,Transportation network companies (ride-sharing firms),1,2203,Trade and migration,0
+2173,Transportation network companies (ride-sharing firms),1,2152,Access and use,0
+2163,Highways and national roads,1,2189,Operational environmental sustainability,0
+2163,Highways and national roads,1,2184,Resilience and continuity,0
+2163,Highways and national roads,1,2187,Government expenditure on transport,0
+2163,Highways and national roads,1,2188,Operational efficiency,0
+2163,Highways and national roads,1,2176,Socioeconomic results,0
+2163,Highways and national roads,1,2186,Vehicle ownership costs,0
+2163,Highways and national roads,1,2193,Noise pollution,0
+2163,Highways and national roads,1,2153,Quality,0
+2163,Highways and national roads,1,2182,Time used in other activities,0
+2163,Highways and national roads,1,2175,Service management,0
+2163,Highways and national roads,1,2174,Affordability,0
+2163,Highways and national roads,1,2198,Access to other goods and services,0
+2163,Highways and national roads,1,2185,Transit affordability,0
+2163,Highways and national roads,1,2177,Public transit access and use,0
+2163,Highways and national roads,1,2190,Financial performance,0
+2163,Highways and national roads,1,2152,Access and use,0
+2169,Subsidies for public transit,1,2189,Operational environmental sustainability,0
+2169,Subsidies for public transit,1,2184,Resilience and continuity,0
+2169,Subsidies for public transit,1,2187,Government expenditure on transport,0
+2169,Subsidies for public transit,1,2196,Health access and outcomes,0
+2169,Subsidies for public transit,1,2176,Socioeconomic results,0
+2169,Subsidies for public transit,1,2186,Vehicle ownership costs,0
+2169,Subsidies for public transit,1,2193,Noise pollution,0
+2169,Subsidies for public transit,1,2153,Quality,0
+2169,Subsidies for public transit,1,2204,Agricultural outcomes,0
+2169,Subsidies for public transit,1,2194,"Land, housing, and rent prices and affordability",0
+2169,Subsidies for public transit,1,2175,Service management,0
+2169,Subsidies for public transit,1,2174,Affordability,0
+2169,Subsidies for public transit,1,2198,Access to other goods and services,0
+2169,Subsidies for public transit,1,2191,Equity in public transport access and safety,0
+2169,Subsidies for public transit,1,2200,Crime and citizen security,0
+2169,Subsidies for public transit,1,2183,Transport safety,0
+2169,Subsidies for public transit,1,2152,Access and use,0
+2169,Subsidies for public transit,1,2361,Household welfare and poverty,0
+2171,Price-based traffic restrictions and tolls,1,2189,Operational environmental sustainability,0
+2171,Price-based traffic restrictions and tolls,1,2184,Resilience and continuity,0
 2171,Price-based traffic restrictions and tolls,1,2187,Government expenditure on transport,0
+2171,Price-based traffic restrictions and tolls,1,2199,Inequality and segregation,0
+2171,Price-based traffic restrictions and tolls,1,2188,Operational efficiency,0
+2171,Price-based traffic restrictions and tolls,1,2176,Socioeconomic results,0
+2171,Price-based traffic restrictions and tolls,1,2186,Vehicle ownership costs,0
 2171,Price-based traffic restrictions and tolls,1,2193,Noise pollution,0
 2171,Price-based traffic restrictions and tolls,1,2153,Quality,0
-2171,Price-based traffic restrictions and tolls,1,2179,Rail services access and use,0
-2171,Price-based traffic restrictions and tolls,1,2198,Access to other goods and services,0
 2171,Price-based traffic restrictions and tolls,1,2204,Agricultural outcomes,0
-2171,Price-based traffic restrictions and tolls,1,2152,Access and use,0
-2171,Price-based traffic restrictions and tolls,1,2185,Transit affordability,0
-2171,Price-based traffic restrictions and tolls,1,2361,Household welfare and poverty,0
-2171,Price-based traffic restrictions and tolls,1,2176,Socioeconomic results,0
-2171,Price-based traffic restrictions and tolls,1,2174,Affordability,0
-2171,Price-based traffic restrictions and tolls,1,2203,Trade and migration,0
-2171,Price-based traffic restrictions and tolls,1,2191,Equity in public transport access and safety,0
-2171,Price-based traffic restrictions and tolls,1,2175,Service management,0
-2171,Price-based traffic restrictions and tolls,1,2200,Crime and citizen security,0
-2171,Price-based traffic restrictions and tolls,1,2189,Operational environmental sustainability,0
-2171,Price-based traffic restrictions and tolls,1,2190,Financial performance,0
-2171,Price-based traffic restrictions and tolls,1,2188,Operational efficiency,0
-2171,Price-based traffic restrictions and tolls,1,2186,Vehicle ownership costs,0
-2171,Price-based traffic restrictions and tolls,1,2184,Resilience and continuity,0
-2171,Price-based traffic restrictions and tolls,1,2199,Inequality and segregation,0
-2171,Price-based traffic restrictions and tolls,1,2197,Education access and outcomes,0
 2171,Price-based traffic restrictions and tolls,1,2182,Time used in other activities,0
-2164,Railways and intermunicipal trains,1,2187,Government expenditure on transport,0
-2164,Railways and intermunicipal trains,1,2177,Public transit access and use,0
-2164,Railways and intermunicipal trains,1,2193,Noise pollution,0
-2164,Railways and intermunicipal trains,1,2153,Quality,0
-2164,Railways and intermunicipal trains,1,2152,Access and use,0
-2164,Railways and intermunicipal trains,1,2176,Socioeconomic results,0
-2164,Railways and intermunicipal trains,1,2174,Affordability,0
-2164,Railways and intermunicipal trains,1,2175,Service management,0
-2164,Railways and intermunicipal trains,1,2200,Crime and citizen security,0
-2164,Railways and intermunicipal trains,1,2189,Operational environmental sustainability,0
-2164,Railways and intermunicipal trains,1,2190,Financial performance,0
-2164,Railways and intermunicipal trains,1,2188,Operational efficiency,0
-2164,Railways and intermunicipal trains,1,2182,Time used in other activities,0
+2171,Price-based traffic restrictions and tolls,1,2175,Service management,0
+2171,Price-based traffic restrictions and tolls,1,2174,Affordability,0
+2171,Price-based traffic restrictions and tolls,1,2198,Access to other goods and services,0
+2171,Price-based traffic restrictions and tolls,1,2197,Education access and outcomes,0
+2171,Price-based traffic restrictions and tolls,1,2185,Transit affordability,0
+2171,Price-based traffic restrictions and tolls,1,2191,Equity in public transport access and safety,0
+2171,Price-based traffic restrictions and tolls,1,2200,Crime and citizen security,0
+2171,Price-based traffic restrictions and tolls,1,2190,Financial performance,0
+2171,Price-based traffic restrictions and tolls,1,2203,Trade and migration,0
+2171,Price-based traffic restrictions and tolls,1,2152,Access and use,0
+2171,Price-based traffic restrictions and tolls,1,2361,Household welfare and poverty,0
+2171,Price-based traffic restrictions and tolls,1,2179,Rail services access and use,0
+2207,"Multi-component law, regulations and policy",1,2189,Operational environmental sustainability,0
+2207,"Multi-component law, regulations and policy",1,2184,Resilience and continuity,0
+2207,"Multi-component law, regulations and policy",1,2180,Other transport infrastructure access and use,0
+2207,"Multi-component law, regulations and policy",1,2178,Private vehicle use,0
+2207,"Multi-component law, regulations and policy",1,2199,Inequality and segregation,0
+2207,"Multi-component law, regulations and policy",1,2188,Operational efficiency,0
+2207,"Multi-component law, regulations and policy",1,2181,"Travel time, commuting and speed",0
+2207,"Multi-component law, regulations and policy",1,2176,Socioeconomic results,0
+2207,"Multi-component law, regulations and policy",1,2186,Vehicle ownership costs,0
+2207,"Multi-component law, regulations and policy",1,2193,Noise pollution,0
+2207,"Multi-component law, regulations and policy",1,2153,Quality,0
+2207,"Multi-component law, regulations and policy",1,2204,Agricultural outcomes,0
+2207,"Multi-component law, regulations and policy",1,2194,"Land, housing, and rent prices and affordability",0
+2207,"Multi-component law, regulations and policy",1,2182,Time used in other activities,0
+2207,"Multi-component law, regulations and policy",1,2175,Service management,0
+2207,"Multi-component law, regulations and policy",1,2195,Goods and services prices and inflation,0
+2207,"Multi-component law, regulations and policy",1,2174,Affordability,0
+2207,"Multi-component law, regulations and policy",1,2185,Transit affordability,0
+2207,"Multi-component law, regulations and policy",1,2200,Crime and citizen security,0
+2207,"Multi-component law, regulations and policy",1,2183,Transport safety,0
+2207,"Multi-component law, regulations and policy",1,2190,Financial performance,0
+2207,"Multi-component law, regulations and policy",1,2203,Trade and migration,0
+2207,"Multi-component law, regulations and policy",1,2152,Access and use,0
+2207,"Multi-component law, regulations and policy",1,2202,Economic activity,0
+2207,"Multi-component law, regulations and policy",1,2361,Household welfare and poverty,0
+2207,"Multi-component law, regulations and policy",1,2179,Rail services access and use,0
+2158,"Active mobility (pedestrian, bicycles, etc.)",1,2189,Operational environmental sustainability,0
+2158,"Active mobility (pedestrian, bicycles, etc.)",1,2184,Resilience and continuity,0
+2158,"Active mobility (pedestrian, bicycles, etc.)",1,2187,Government expenditure on transport,0
+2158,"Active mobility (pedestrian, bicycles, etc.)",1,2199,Inequality and segregation,0
+2158,"Active mobility (pedestrian, bicycles, etc.)",1,2176,Socioeconomic results,0
+2158,"Active mobility (pedestrian, bicycles, etc.)",1,2186,Vehicle ownership costs,0
+2158,"Active mobility (pedestrian, bicycles, etc.)",1,2193,Noise pollution,0
+2158,"Active mobility (pedestrian, bicycles, etc.)",1,2153,Quality,0
+2158,"Active mobility (pedestrian, bicycles, etc.)",1,2204,Agricultural outcomes,0
+2158,"Active mobility (pedestrian, bicycles, etc.)",1,2175,Service management,0
+2158,"Active mobility (pedestrian, bicycles, etc.)",1,2195,Goods and services prices and inflation,0
+2158,"Active mobility (pedestrian, bicycles, etc.)",1,2174,Affordability,0
+2158,"Active mobility (pedestrian, bicycles, etc.)",1,2198,Access to other goods and services,0
+2158,"Active mobility (pedestrian, bicycles, etc.)",1,2197,Education access and outcomes,0
+2158,"Active mobility (pedestrian, bicycles, etc.)",1,2185,Transit affordability,0
+2158,"Active mobility (pedestrian, bicycles, etc.)",1,2191,Equity in public transport access and safety,0
+2158,"Active mobility (pedestrian, bicycles, etc.)",1,2190,Financial performance,0
+2158,"Active mobility (pedestrian, bicycles, etc.)",1,2152,Access and use,0
+2158,"Active mobility (pedestrian, bicycles, etc.)",1,2361,Household welfare and poverty,0
+2158,"Active mobility (pedestrian, bicycles, etc.)",1,2179,Rail services access and use,0
+2170,Low-emission mobility: policy and regulations,1,2189,Operational environmental sustainability,0
+2170,Low-emission mobility: policy and regulations,1,2184,Resilience and continuity,0
+2170,Low-emission mobility: policy and regulations,1,2201,Employment access and outcomes,0
+2170,Low-emission mobility: policy and regulations,1,2187,Government expenditure on transport,0
+2170,Low-emission mobility: policy and regulations,1,2199,Inequality and segregation,0
+2170,Low-emission mobility: policy and regulations,1,2188,Operational efficiency,0
+2170,Low-emission mobility: policy and regulations,1,2176,Socioeconomic results,0
+2170,Low-emission mobility: policy and regulations,1,2193,Noise pollution,0
+2170,Low-emission mobility: policy and regulations,1,2153,Quality,0
+2170,Low-emission mobility: policy and regulations,1,2204,Agricultural outcomes,0
+2170,Low-emission mobility: policy and regulations,1,2182,Time used in other activities,0
+2170,Low-emission mobility: policy and regulations,1,2175,Service management,0
+2170,Low-emission mobility: policy and regulations,1,2174,Affordability,0
+2170,Low-emission mobility: policy and regulations,1,2198,Access to other goods and services,0
+2170,Low-emission mobility: policy and regulations,1,2191,Equity in public transport access and safety,0
+2170,Low-emission mobility: policy and regulations,1,2200,Crime and citizen security,0
+2170,Low-emission mobility: policy and regulations,1,2183,Transport safety,0
+2170,Low-emission mobility: policy and regulations,1,2190,Financial performance,0
+2170,Low-emission mobility: policy and regulations,1,2203,Trade and migration,0
+2170,Low-emission mobility: policy and regulations,1,2152,Access and use,0
+2170,Low-emission mobility: policy and regulations,1,2361,Household welfare and poverty,0
+2170,Low-emission mobility: policy and regulations,1,2179,Rail services access and use,0
+2167,Ports,1,2189,Operational environmental sustainability,0
+2167,Ports,1,2184,Resilience and continuity,0
+2167,Ports,1,2187,Government expenditure on transport,0
+2167,Ports,1,2180,Other transport infrastructure access and use,0
+2167,Ports,1,2178,Private vehicle use,0
+2167,Ports,1,2188,Operational efficiency,0
+2167,Ports,1,2181,"Travel time, commuting and speed",0
+2167,Ports,1,2176,Socioeconomic results,0
+2167,Ports,1,2186,Vehicle ownership costs,0
+2167,Ports,1,2193,Noise pollution,0
+2167,Ports,1,2153,Quality,0
+2167,Ports,1,2182,Time used in other activities,0
+2167,Ports,1,2175,Service management,0
+2167,Ports,1,2174,Affordability,0
+2167,Ports,1,2198,Access to other goods and services,0
+2167,Ports,1,2185,Transit affordability,0
+2167,Ports,1,2177,Public transit access and use,0
+2167,Ports,1,2191,Equity in public transport access and safety,0
+2167,Ports,1,2200,Crime and citizen security,0
+2167,Ports,1,2183,Transport safety,0
+2167,Ports,1,2190,Financial performance,0
+2167,Ports,1,2152,Access and use,0
+2167,Ports,1,2179,Rail services access and use,0
+2167,Ports,1,2192,Air pollution and greenhouse gases,0
+2168,Tunnels,1,2189,Operational environmental sustainability,0
+2168,Tunnels,1,2184,Resilience and continuity,0
 2168,Tunnels,1,2187,Government expenditure on transport,0
-2168,Tunnels,1,2177,Public transit access and use,0
+2168,Tunnels,1,2180,Other transport infrastructure access and use,0
+2168,Tunnels,1,2178,Private vehicle use,0
+2168,Tunnels,1,2199,Inequality and segregation,0
+2168,Tunnels,1,2188,Operational efficiency,0
+2168,Tunnels,1,2196,Health access and outcomes,0
+2168,Tunnels,1,2176,Socioeconomic results,0
+2168,Tunnels,1,2186,Vehicle ownership costs,0
 2168,Tunnels,1,2193,Noise pollution,0
 2168,Tunnels,1,2153,Quality,0
-2168,Tunnels,1,2179,Rail services access and use,0
-2168,Tunnels,1,2198,Access to other goods and services,0
 2168,Tunnels,1,2204,Agricultural outcomes,0
-2168,Tunnels,1,2152,Access and use,0
-2168,Tunnels,1,2185,Transit affordability,0
-2168,Tunnels,1,2361,Household welfare and poverty,0
-2168,Tunnels,1,2195,Goods and services prices and inflation,0
-2168,Tunnels,1,2176,Socioeconomic results,0
-2168,Tunnels,1,2183,Transport safety,0
-2168,Tunnels,1,2180,Other transport infrastructure access and use,0
-2168,Tunnels,1,2174,Affordability,0
-2168,Tunnels,1,2203,Trade and migration,0
-2168,Tunnels,1,2191,Equity in public transport access and safety,0
-2168,Tunnels,1,2175,Service management,0
-2168,Tunnels,1,2192,Air pollution and greenhouse gases,0
-2168,Tunnels,1,2178,Private vehicle use,0
-2168,Tunnels,1,2200,Crime and citizen security,0
-2168,Tunnels,1,2196,Health access and outcomes,0
-2168,Tunnels,1,2189,Operational environmental sustainability,0
-2168,Tunnels,1,2190,Financial performance,0
-2168,Tunnels,1,2188,Operational efficiency,0
-2168,Tunnels,1,2186,Vehicle ownership costs,0
-2168,Tunnels,1,2184,Resilience and continuity,0
-2168,Tunnels,1,2199,Inequality and segregation,0
-2168,Tunnels,1,2197,Education access and outcomes,0
 2168,Tunnels,1,2182,Time used in other activities,0
+2168,Tunnels,1,2175,Service management,0
+2168,Tunnels,1,2195,Goods and services prices and inflation,0
+2168,Tunnels,1,2174,Affordability,0
+2168,Tunnels,1,2198,Access to other goods and services,0
+2168,Tunnels,1,2197,Education access and outcomes,0
+2168,Tunnels,1,2185,Transit affordability,0
+2168,Tunnels,1,2177,Public transit access and use,0
+2168,Tunnels,1,2191,Equity in public transport access and safety,0
+2168,Tunnels,1,2200,Crime and citizen security,0
+2168,Tunnels,1,2183,Transport safety,0
+2168,Tunnels,1,2190,Financial performance,0
+2168,Tunnels,1,2203,Trade and migration,0
+2168,Tunnels,1,2152,Access and use,0
+2168,Tunnels,1,2361,Household welfare and poverty,0
+2168,Tunnels,1,2179,Rail services access and use,0
+2168,Tunnels,1,2192,Air pollution and greenhouse gases,0
+2205,Multi-component urban mobility infrastructure,1,2189,Operational environmental sustainability,0
+2205,Multi-component urban mobility infrastructure,1,2184,Resilience and continuity,0
+2205,Multi-component urban mobility infrastructure,1,2187,Government expenditure on transport,0
+2205,Multi-component urban mobility infrastructure,1,2178,Private vehicle use,0
+2205,Multi-component urban mobility infrastructure,1,2199,Inequality and segregation,0
+2205,Multi-component urban mobility infrastructure,1,2188,Operational efficiency,0
+2205,Multi-component urban mobility infrastructure,1,2181,"Travel time, commuting and speed",0
+2205,Multi-component urban mobility infrastructure,1,2196,Health access and outcomes,0
+2205,Multi-component urban mobility infrastructure,1,2176,Socioeconomic results,0
+2205,Multi-component urban mobility infrastructure,1,2186,Vehicle ownership costs,0
+2205,Multi-component urban mobility infrastructure,1,2193,Noise pollution,0
+2205,Multi-component urban mobility infrastructure,1,2153,Quality,0
+2205,Multi-component urban mobility infrastructure,1,2204,Agricultural outcomes,0
+2205,Multi-component urban mobility infrastructure,1,2194,"Land, housing, and rent prices and affordability",0
+2205,Multi-component urban mobility infrastructure,1,2182,Time used in other activities,0
+2205,Multi-component urban mobility infrastructure,1,2175,Service management,0
+2205,Multi-component urban mobility infrastructure,1,2195,Goods and services prices and inflation,0
+2205,Multi-component urban mobility infrastructure,1,2174,Affordability,0
+2205,Multi-component urban mobility infrastructure,1,2198,Access to other goods and services,0
+2205,Multi-component urban mobility infrastructure,1,2200,Crime and citizen security,0
+2205,Multi-component urban mobility infrastructure,1,2190,Financial performance,0
+2205,Multi-component urban mobility infrastructure,1,2203,Trade and migration,0
+2205,Multi-component urban mobility infrastructure,1,2152,Access and use,0
+2205,Multi-component urban mobility infrastructure,1,2202,Economic activity,0
+2205,Multi-component urban mobility infrastructure,1,2361,Household welfare and poverty,0
+2205,Multi-component urban mobility infrastructure,1,2179,Rail services access and use,0
+2205,Multi-component urban mobility infrastructure,1,2192,Air pollution and greenhouse gases,0
+2151,"Roads, regional transportation and logistics",1,2189,Operational environmental sustainability,0
+2151,"Roads, regional transportation and logistics",1,2184,Resilience and continuity,0
+2151,"Roads, regional transportation and logistics",1,2201,Employment access and outcomes,0
+2151,"Roads, regional transportation and logistics",1,2187,Government expenditure on transport,0
+2151,"Roads, regional transportation and logistics",1,2180,Other transport infrastructure access and use,0
+2151,"Roads, regional transportation and logistics",1,2178,Private vehicle use,0
+2151,"Roads, regional transportation and logistics",1,2199,Inequality and segregation,0
+2151,"Roads, regional transportation and logistics",1,2188,Operational efficiency,0
+2151,"Roads, regional transportation and logistics",1,2181,"Travel time, commuting and speed",0
+2151,"Roads, regional transportation and logistics",1,2196,Health access and outcomes,0
+2151,"Roads, regional transportation and logistics",1,2176,Socioeconomic results,0
+2151,"Roads, regional transportation and logistics",1,2186,Vehicle ownership costs,0
+2151,"Roads, regional transportation and logistics",1,2193,Noise pollution,0
+2151,"Roads, regional transportation and logistics",1,2153,Quality,0
+2151,"Roads, regional transportation and logistics",1,2204,Agricultural outcomes,0
+2151,"Roads, regional transportation and logistics",1,2194,"Land, housing, and rent prices and affordability",0
+2151,"Roads, regional transportation and logistics",1,2182,Time used in other activities,0
+2151,"Roads, regional transportation and logistics",1,2175,Service management,0
+2151,"Roads, regional transportation and logistics",1,2195,Goods and services prices and inflation,0
+2151,"Roads, regional transportation and logistics",1,2174,Affordability,0
+2151,"Roads, regional transportation and logistics",1,2198,Access to other goods and services,0
+2151,"Roads, regional transportation and logistics",1,2197,Education access and outcomes,0
+2151,"Roads, regional transportation and logistics",1,2185,Transit affordability,0
+2151,"Roads, regional transportation and logistics",1,2177,Public transit access and use,0
+2151,"Roads, regional transportation and logistics",1,2191,Equity in public transport access and safety,0
+2151,"Roads, regional transportation and logistics",1,2200,Crime and citizen security,0
+2151,"Roads, regional transportation and logistics",1,2183,Transport safety,0
+2151,"Roads, regional transportation and logistics",1,2190,Financial performance,0
+2151,"Roads, regional transportation and logistics",1,2203,Trade and migration,0
+2151,"Roads, regional transportation and logistics",1,2152,Access and use,0
+2151,"Roads, regional transportation and logistics",1,2202,Economic activity,0
+2151,"Roads, regional transportation and logistics",1,2361,Household welfare and poverty,0
+2151,"Roads, regional transportation and logistics",1,2179,Rail services access and use,0
+2151,"Roads, regional transportation and logistics",1,2192,Air pollution and greenhouse gases,0
+2247,Multi-component intervention category,1,2189,Operational environmental sustainability,0
+2247,Multi-component intervention category,1,2184,Resilience and continuity,0
+2247,Multi-component intervention category,1,2187,Government expenditure on transport,0
+2247,Multi-component intervention category,1,2188,Operational efficiency,0
+2247,Multi-component intervention category,1,2181,"Travel time, commuting and speed",0
+2247,Multi-component intervention category,1,2196,Health access and outcomes,0
+2247,Multi-component intervention category,1,2176,Socioeconomic results,0
+2247,Multi-component intervention category,1,2186,Vehicle ownership costs,0
+2247,Multi-component intervention category,1,2193,Noise pollution,0
+2247,Multi-component intervention category,1,2153,Quality,0
+2247,Multi-component intervention category,1,2204,Agricultural outcomes,0
+2247,Multi-component intervention category,1,2182,Time used in other activities,0
+2247,Multi-component intervention category,1,2175,Service management,0
+2247,Multi-component intervention category,1,2174,Affordability,0
+2247,Multi-component intervention category,1,2198,Access to other goods and services,0
+2247,Multi-component intervention category,1,2197,Education access and outcomes,0
+2247,Multi-component intervention category,1,2185,Transit affordability,0
+2247,Multi-component intervention category,1,2177,Public transit access and use,0
+2247,Multi-component intervention category,1,2191,Equity in public transport access and safety,0
+2247,Multi-component intervention category,1,2200,Crime and citizen security,0
+2247,Multi-component intervention category,1,2190,Financial performance,0
+2247,Multi-component intervention category,1,2152,Access and use,0
+2247,Multi-component intervention category,1,2179,Rail services access and use,0
+2247,Multi-component intervention category,1,2192,Air pollution and greenhouse gases,0
+2160,Low-emission mobility: infrastructure,1,2189,Operational environmental sustainability,0
+2160,Low-emission mobility: infrastructure,1,2184,Resilience and continuity,0
+2160,Low-emission mobility: infrastructure,1,2201,Employment access and outcomes,0
+2160,Low-emission mobility: infrastructure,1,2187,Government expenditure on transport,0
+2160,Low-emission mobility: infrastructure,1,2199,Inequality and segregation,0
+2160,Low-emission mobility: infrastructure,1,2188,Operational efficiency,0
+2160,Low-emission mobility: infrastructure,1,2176,Socioeconomic results,0
+2160,Low-emission mobility: infrastructure,1,2186,Vehicle ownership costs,0
+2160,Low-emission mobility: infrastructure,1,2193,Noise pollution,0
+2160,Low-emission mobility: infrastructure,1,2153,Quality,0
+2160,Low-emission mobility: infrastructure,1,2204,Agricultural outcomes,0
+2160,Low-emission mobility: infrastructure,1,2182,Time used in other activities,0
+2160,Low-emission mobility: infrastructure,1,2175,Service management,0
+2160,Low-emission mobility: infrastructure,1,2195,Goods and services prices and inflation,0
+2160,Low-emission mobility: infrastructure,1,2174,Affordability,0
+2160,Low-emission mobility: infrastructure,1,2198,Access to other goods and services,0
+2160,Low-emission mobility: infrastructure,1,2197,Education access and outcomes,0
+2160,Low-emission mobility: infrastructure,1,2185,Transit affordability,0
+2160,Low-emission mobility: infrastructure,1,2191,Equity in public transport access and safety,0
+2160,Low-emission mobility: infrastructure,1,2200,Crime and citizen security,0
+2160,Low-emission mobility: infrastructure,1,2183,Transport safety,0
+2160,Low-emission mobility: infrastructure,1,2190,Financial performance,0
+2160,Low-emission mobility: infrastructure,1,2203,Trade and migration,0
+2160,Low-emission mobility: infrastructure,1,2152,Access and use,0
+2160,Low-emission mobility: infrastructure,1,2202,Economic activity,0
+2160,Low-emission mobility: infrastructure,1,2361,Household welfare and poverty,0
+2160,Low-emission mobility: infrastructure,1,2179,Rail services access and use,0
+2160,Low-emission mobility: infrastructure,1,2192,Air pollution and greenhouse gases,0
+2154,Bus Rapid Transit (BRT),1,2189,Operational environmental sustainability,0
+2154,Bus Rapid Transit (BRT),1,2184,Resilience and continuity,0
+2154,Bus Rapid Transit (BRT),1,2187,Government expenditure on transport,0
+2154,Bus Rapid Transit (BRT),1,2180,Other transport infrastructure access and use,0
+2154,Bus Rapid Transit (BRT),1,2176,Socioeconomic results,0
+2154,Bus Rapid Transit (BRT),1,2186,Vehicle ownership costs,0
+2154,Bus Rapid Transit (BRT),1,2193,Noise pollution,0
+2154,Bus Rapid Transit (BRT),1,2153,Quality,0
+2154,Bus Rapid Transit (BRT),1,2204,Agricultural outcomes,0
+2154,Bus Rapid Transit (BRT),1,2182,Time used in other activities,0
+2154,Bus Rapid Transit (BRT),1,2175,Service management,0
+2154,Bus Rapid Transit (BRT),1,2174,Affordability,0
+2154,Bus Rapid Transit (BRT),1,2198,Access to other goods and services,0
+2154,Bus Rapid Transit (BRT),1,2190,Financial performance,0
+2154,Bus Rapid Transit (BRT),1,2152,Access and use,0
+2154,Bus Rapid Transit (BRT),1,2361,Household welfare and poverty,0
+2154,Bus Rapid Transit (BRT),1,2179,Rail services access and use,0
+2161,Urban traffic management systems,1,2189,Operational environmental sustainability,0
+2161,Urban traffic management systems,1,2184,Resilience and continuity,0
+2161,Urban traffic management systems,1,2187,Government expenditure on transport,0
+2161,Urban traffic management systems,1,2188,Operational efficiency,0
+2161,Urban traffic management systems,1,2176,Socioeconomic results,0
+2161,Urban traffic management systems,1,2186,Vehicle ownership costs,0
+2161,Urban traffic management systems,1,2193,Noise pollution,0
+2161,Urban traffic management systems,1,2153,Quality,0
+2161,Urban traffic management systems,1,2204,Agricultural outcomes,0
+2161,Urban traffic management systems,1,2194,"Land, housing, and rent prices and affordability",0
+2161,Urban traffic management systems,1,2182,Time used in other activities,0
+2161,Urban traffic management systems,1,2175,Service management,0
+2161,Urban traffic management systems,1,2174,Affordability,0
+2161,Urban traffic management systems,1,2198,Access to other goods and services,0
+2161,Urban traffic management systems,1,2197,Education access and outcomes,0
+2161,Urban traffic management systems,1,2185,Transit affordability,0
+2161,Urban traffic management systems,1,2191,Equity in public transport access and safety,0
+2161,Urban traffic management systems,1,2200,Crime and citizen security,0
+2161,Urban traffic management systems,1,2190,Financial performance,0
+2161,Urban traffic management systems,1,2203,Trade and migration,0
+2161,Urban traffic management systems,1,2152,Access and use,0
+2161,Urban traffic management systems,1,2202,Economic activity,0
+2161,Urban traffic management systems,1,2361,Household welfare and poverty,0
+2161,Urban traffic management systems,1,2179,Rail services access and use,0
+2161,Urban traffic management systems,1,2192,Air pollution and greenhouse gases,0
+2157,"Law, regulations and policy",1,2189,Operational environmental sustainability,0
+2157,"Law, regulations and policy",1,2184,Resilience and continuity,0
+2157,"Law, regulations and policy",1,2201,Employment access and outcomes,0
+2157,"Law, regulations and policy",1,2187,Government expenditure on transport,0
+2157,"Law, regulations and policy",1,2180,Other transport infrastructure access and use,0
+2157,"Law, regulations and policy",1,2178,Private vehicle use,0
+2157,"Law, regulations and policy",1,2199,Inequality and segregation,0
+2157,"Law, regulations and policy",1,2188,Operational efficiency,0
+2157,"Law, regulations and policy",1,2181,"Travel time, commuting and speed",0
+2157,"Law, regulations and policy",1,2196,Health access and outcomes,0
+2157,"Law, regulations and policy",1,2176,Socioeconomic results,0
+2157,"Law, regulations and policy",1,2186,Vehicle ownership costs,0
+2157,"Law, regulations and policy",1,2193,Noise pollution,0
+2157,"Law, regulations and policy",1,2153,Quality,0
+2157,"Law, regulations and policy",1,2204,Agricultural outcomes,0
+2157,"Law, regulations and policy",1,2194,"Land, housing, and rent prices and affordability",0
+2157,"Law, regulations and policy",1,2182,Time used in other activities,0
+2157,"Law, regulations and policy",1,2175,Service management,0
+2157,"Law, regulations and policy",1,2195,Goods and services prices and inflation,0
+2157,"Law, regulations and policy",1,2174,Affordability,0
+2157,"Law, regulations and policy",1,2198,Access to other goods and services,0
+2157,"Law, regulations and policy",1,2197,Education access and outcomes,0
+2157,"Law, regulations and policy",1,2185,Transit affordability,0
+2157,"Law, regulations and policy",1,2177,Public transit access and use,0
+2157,"Law, regulations and policy",1,2191,Equity in public transport access and safety,0
+2157,"Law, regulations and policy",1,2200,Crime and citizen security,0
+2157,"Law, regulations and policy",1,2183,Transport safety,0
+2157,"Law, regulations and policy",1,2190,Financial performance,0
+2157,"Law, regulations and policy",1,2203,Trade and migration,0
+2157,"Law, regulations and policy",1,2152,Access and use,0
+2157,"Law, regulations and policy",1,2202,Economic activity,0
+2157,"Law, regulations and policy",1,2361,Household welfare and poverty,0
+2157,"Law, regulations and policy",1,2179,Rail services access and use,0
+2157,"Law, regulations and policy",1,2192,Air pollution and greenhouse gases,0
+2155,"Urban trains (subways, passenger trains, LRT, metros)",1,2189,Operational environmental sustainability,0
+2155,"Urban trains (subways, passenger trains, LRT, metros)",1,2184,Resilience and continuity,0
+2155,"Urban trains (subways, passenger trains, LRT, metros)",1,2187,Government expenditure on transport,0
+2155,"Urban trains (subways, passenger trains, LRT, metros)",1,2188,Operational efficiency,0
+2155,"Urban trains (subways, passenger trains, LRT, metros)",1,2176,Socioeconomic results,0
+2155,"Urban trains (subways, passenger trains, LRT, metros)",1,2186,Vehicle ownership costs,0
+2155,"Urban trains (subways, passenger trains, LRT, metros)",1,2193,Noise pollution,0
+2155,"Urban trains (subways, passenger trains, LRT, metros)",1,2153,Quality,0
+2155,"Urban trains (subways, passenger trains, LRT, metros)",1,2182,Time used in other activities,0
+2155,"Urban trains (subways, passenger trains, LRT, metros)",1,2175,Service management,0
+2155,"Urban trains (subways, passenger trains, LRT, metros)",1,2174,Affordability,0
+2155,"Urban trains (subways, passenger trains, LRT, metros)",1,2185,Transit affordability,0
+2155,"Urban trains (subways, passenger trains, LRT, metros)",1,2190,Financial performance,0
+2155,"Urban trains (subways, passenger trains, LRT, metros)",1,2152,Access and use,0
+2206,"Multi-component roads, regional transportation and logistics",1,2189,Operational environmental sustainability,0
+2206,"Multi-component roads, regional transportation and logistics",1,2184,Resilience and continuity,0
+2206,"Multi-component roads, regional transportation and logistics",1,2187,Government expenditure on transport,0
+2206,"Multi-component roads, regional transportation and logistics",1,2180,Other transport infrastructure access and use,0
+2206,"Multi-component roads, regional transportation and logistics",1,2178,Private vehicle use,0
+2206,"Multi-component roads, regional transportation and logistics",1,2188,Operational efficiency,0
+2206,"Multi-component roads, regional transportation and logistics",1,2181,"Travel time, commuting and speed",0
+2206,"Multi-component roads, regional transportation and logistics",1,2176,Socioeconomic results,0
+2206,"Multi-component roads, regional transportation and logistics",1,2186,Vehicle ownership costs,0
+2206,"Multi-component roads, regional transportation and logistics",1,2193,Noise pollution,0
+2206,"Multi-component roads, regional transportation and logistics",1,2153,Quality,0
+2206,"Multi-component roads, regional transportation and logistics",1,2182,Time used in other activities,0
+2206,"Multi-component roads, regional transportation and logistics",1,2175,Service management,0
+2206,"Multi-component roads, regional transportation and logistics",1,2174,Affordability,0
+2206,"Multi-component roads, regional transportation and logistics",1,2198,Access to other goods and services,0
+2206,"Multi-component roads, regional transportation and logistics",1,2177,Public transit access and use,0
+2206,"Multi-component roads, regional transportation and logistics",1,2191,Equity in public transport access and safety,0
+2206,"Multi-component roads, regional transportation and logistics",1,2200,Crime and citizen security,0
+2206,"Multi-component roads, regional transportation and logistics",1,2183,Transport safety,0
+2206,"Multi-component roads, regional transportation and logistics",1,2190,Financial performance,0
+2206,"Multi-component roads, regional transportation and logistics",1,2152,Access and use,0
+2206,"Multi-component roads, regional transportation and logistics",1,2179,Rail services access and use,0
+2156,Cables,1,2189,Operational environmental sustainability,0
+2156,Cables,1,2184,Resilience and continuity,0
+2156,Cables,1,2187,Government expenditure on transport,0
+2156,Cables,1,2180,Other transport infrastructure access and use,0
+2156,Cables,1,2199,Inequality and segregation,0
+2156,Cables,1,2188,Operational efficiency,0
+2156,Cables,1,2176,Socioeconomic results,0
+2156,Cables,1,2186,Vehicle ownership costs,0
+2156,Cables,1,2193,Noise pollution,0
+2156,Cables,1,2153,Quality,0
+2156,Cables,1,2204,Agricultural outcomes,0
+2156,Cables,1,2175,Service management,0
+2156,Cables,1,2195,Goods and services prices and inflation,0
+2156,Cables,1,2174,Affordability,0
+2156,Cables,1,2198,Access to other goods and services,0
+2156,Cables,1,2197,Education access and outcomes,0
+2156,Cables,1,2191,Equity in public transport access and safety,0
+2156,Cables,1,2183,Transport safety,0
+2156,Cables,1,2190,Financial performance,0
+2156,Cables,1,2203,Trade and migration,0
+2156,Cables,1,2152,Access and use,0
+2156,Cables,1,2202,Economic activity,0
+2156,Cables,1,2179,Rail services access and use,0
+2172,"Circulation restrictions, non-price based",1,2189,Operational environmental sustainability,0
+2172,"Circulation restrictions, non-price based",1,2184,Resilience and continuity,0
+2172,"Circulation restrictions, non-price based",1,2187,Government expenditure on transport,0
+2172,"Circulation restrictions, non-price based",1,2199,Inequality and segregation,0
+2172,"Circulation restrictions, non-price based",1,2188,Operational efficiency,0
+2172,"Circulation restrictions, non-price based",1,2176,Socioeconomic results,0
+2172,"Circulation restrictions, non-price based",1,2186,Vehicle ownership costs,0
+2172,"Circulation restrictions, non-price based",1,2193,Noise pollution,0
+2172,"Circulation restrictions, non-price based",1,2153,Quality,0
+2172,"Circulation restrictions, non-price based",1,2182,Time used in other activities,0
+2172,"Circulation restrictions, non-price based",1,2175,Service management,0
+2172,"Circulation restrictions, non-price based",1,2174,Affordability,0
+2172,"Circulation restrictions, non-price based",1,2198,Access to other goods and services,0
+2172,"Circulation restrictions, non-price based",1,2190,Financial performance,0
+2172,"Circulation restrictions, non-price based",1,2152,Access and use,0
+2172,"Circulation restrictions, non-price based",1,2179,Rail services access and use,0
+2162,Rural roads,1,2189,Operational environmental sustainability,0
+2162,Rural roads,1,2184,Resilience and continuity,0
+2162,Rural roads,1,2187,Government expenditure on transport,0
+2162,Rural roads,1,2188,Operational efficiency,0
+2162,Rural roads,1,2176,Socioeconomic results,0
+2162,Rural roads,1,2186,Vehicle ownership costs,0
+2162,Rural roads,1,2193,Noise pollution,0
+2162,Rural roads,1,2153,Quality,0
+2162,Rural roads,1,2175,Service management,0
+2162,Rural roads,1,2174,Affordability,0
+2162,Rural roads,1,2190,Financial performance,0
+2162,Rural roads,1,2152,Access and use,0
+2162,Rural roads,1,2179,Rail services access and use,0
+2164,Railways and intermunicipal trains,1,2189,Operational environmental sustainability,0
+2164,Railways and intermunicipal trains,1,2187,Government expenditure on transport,0
+2164,Railways and intermunicipal trains,1,2188,Operational efficiency,0
+2164,Railways and intermunicipal trains,1,2176,Socioeconomic results,0
+2164,Railways and intermunicipal trains,1,2193,Noise pollution,0
+2164,Railways and intermunicipal trains,1,2153,Quality,0
+2164,Railways and intermunicipal trains,1,2182,Time used in other activities,0
+2164,Railways and intermunicipal trains,1,2175,Service management,0
+2164,Railways and intermunicipal trains,1,2174,Affordability,0
+2164,Railways and intermunicipal trains,1,2177,Public transit access and use,0
+2164,Railways and intermunicipal trains,1,2200,Crime and citizen security,0
+2164,Railways and intermunicipal trains,1,2190,Financial performance,0
+2164,Railways and intermunicipal trains,1,2152,Access and use,0
+2159,Urban roads,1,2189,Operational environmental sustainability,0
+2159,Urban roads,1,2184,Resilience and continuity,0
+2159,Urban roads,1,2187,Government expenditure on transport,0
+2159,Urban roads,1,2188,Operational efficiency,0
+2159,Urban roads,1,2176,Socioeconomic results,0
+2159,Urban roads,1,2186,Vehicle ownership costs,0
+2159,Urban roads,1,2153,Quality,0
+2159,Urban roads,1,2175,Service management,0
+2159,Urban roads,1,2174,Affordability,0
+2159,Urban roads,1,2177,Public transit access and use,0
+2159,Urban roads,1,2200,Crime and citizen security,0
+2159,Urban roads,1,2152,Access and use,0
+2166,Bridges,1,2189,Operational environmental sustainability,0
+2166,Bridges,1,2187,Government expenditure on transport,0
+2166,Bridges,1,2180,Other transport infrastructure access and use,0
+2166,Bridges,1,2178,Private vehicle use,0
+2166,Bridges,1,2199,Inequality and segregation,0
+2166,Bridges,1,2188,Operational efficiency,0
+2166,Bridges,1,2176,Socioeconomic results,0
+2166,Bridges,1,2186,Vehicle ownership costs,0
+2166,Bridges,1,2193,Noise pollution,0
+2166,Bridges,1,2153,Quality,0
+2166,Bridges,1,2182,Time used in other activities,0
+2166,Bridges,1,2175,Service management,0
+2166,Bridges,1,2174,Affordability,0
+2166,Bridges,1,2185,Transit affordability,0
+2166,Bridges,1,2177,Public transit access and use,0
+2166,Bridges,1,2191,Equity in public transport access and safety,0
+2166,Bridges,1,2200,Crime and citizen security,0
+2166,Bridges,1,2183,Transport safety,0
+2166,Bridges,1,2190,Financial performance,0
+2166,Bridges,1,2152,Access and use,0
+2166,Bridges,1,2179,Rail services access and use,0
+2166,Bridges,1,2192,Air pollution and greenhouse gases,0
+2246,Multi-component interventions,1,2189,Operational environmental sustainability,0
+2246,Multi-component interventions,1,2184,Resilience and continuity,0
+2246,Multi-component interventions,1,2201,Employment access and outcomes,0
+2246,Multi-component interventions,1,2187,Government expenditure on transport,0
+2246,Multi-component interventions,1,2180,Other transport infrastructure access and use,0
+2246,Multi-component interventions,1,2178,Private vehicle use,0
+2246,Multi-component interventions,1,2199,Inequality and segregation,0
+2246,Multi-component interventions,1,2188,Operational efficiency,0
+2246,Multi-component interventions,1,2181,"Travel time, commuting and speed",0
+2246,Multi-component interventions,1,2196,Health access and outcomes,0
+2246,Multi-component interventions,1,2176,Socioeconomic results,0
+2246,Multi-component interventions,1,2186,Vehicle ownership costs,0
+2246,Multi-component interventions,1,2193,Noise pollution,0
+2246,Multi-component interventions,1,2153,Quality,0
+2246,Multi-component interventions,1,2204,Agricultural outcomes,0
+2246,Multi-component interventions,1,2194,"Land, housing, and rent prices and affordability",0
+2246,Multi-component interventions,1,2182,Time used in other activities,0
+2246,Multi-component interventions,1,2175,Service management,0
+2246,Multi-component interventions,1,2195,Goods and services prices and inflation,0
+2246,Multi-component interventions,1,2174,Affordability,0
+2246,Multi-component interventions,1,2198,Access to other goods and services,0
+2246,Multi-component interventions,1,2197,Education access and outcomes,0
+2246,Multi-component interventions,1,2185,Transit affordability,0
+2246,Multi-component interventions,1,2177,Public transit access and use,0
+2246,Multi-component interventions,1,2191,Equity in public transport access and safety,0
+2246,Multi-component interventions,1,2200,Crime and citizen security,0
+2246,Multi-component interventions,1,2183,Transport safety,0
+2246,Multi-component interventions,1,2190,Financial performance,0
+2246,Multi-component interventions,1,2203,Trade and migration,0
+2246,Multi-component interventions,1,2152,Access and use,0
+2246,Multi-component interventions,1,2202,Economic activity,0
+2246,Multi-component interventions,1,2361,Household welfare and poverty,0
+2246,Multi-component interventions,1,2179,Rail services access and use,0
+2246,Multi-component interventions,1,2192,Air pollution and greenhouse gases,0
